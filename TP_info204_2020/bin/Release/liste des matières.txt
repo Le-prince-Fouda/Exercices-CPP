@@ -1,0 +1,7 @@
+Les matières de compositions au concours de 454
+
+les information des matières sont notée ainsi: code; libelle; coef
+
+01; m; 2
+02; p; 2
+03; c; 2

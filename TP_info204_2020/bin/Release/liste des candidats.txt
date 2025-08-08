@@ -1,0 +1,7 @@
+Liste des candidats inscrits au concours de 454
+
+les informationdu d'un candidat sont notée ainsi: ncin; nom; prenom; âge
+
+001; ll; lll; 12
+pp; ppp; pppp; 14
+003; kk; kkk; 11

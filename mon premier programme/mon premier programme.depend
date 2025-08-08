@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1590320408 source:a:\programme c++\essaie.cpp
+
+1590324268 source:a:\programme c++\mon premier programme\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

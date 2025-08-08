@@ -1,0 +1,6 @@
+Liste des candidats inscrits au concours de ABC
+
+les informationdu d'un candidat sont notée ainsi: ncin; nom; prenom; âge
+
+1; FOUDA; FRANCKY; 18
+2; AMBASSA; AUDREY; 19

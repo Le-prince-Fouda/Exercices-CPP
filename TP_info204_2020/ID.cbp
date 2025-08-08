@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ID" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ID" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ID" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Ajouter.cpp" />
+		<Unit filename="Ajouter.h" />
+		<Unit filename="Modification.cpp" />
+		<Unit filename="Modification.h" />
+		<Unit filename="Modifier.cpp" />
+		<Unit filename="Modifier.h" />
+		<Unit filename="include/Cancdidat.h" />
+		<Unit filename="include/Evaluation.h" />
+		<Unit filename="include/Matiere.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="mesflux.cpp" />
+		<Unit filename="mesflux.h" />
+		<Unit filename="src/Cancdidat.cpp" />
+		<Unit filename="src/Evaluation.cpp" />
+		<Unit filename="src/Matiere.cpp" />
+		<Unit filename="supprimer.cpp" />
+		<Unit filename="supprimer.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1613759309 source:a:\programme c++\id\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Cancdidat.h"
+	"Matiere.h"
+	"Evaluation.h"
+	"Ajouter.h"
+	"mesflux.h"
+	"supprimer.h"
+
+1591850677 source:a:\programme c++\id\src\cancdidat.cpp
+	"Cancdidat.h"
+
+1591850677 a:\programme c++\id\include\cancdidat.h
+	<string>
+	<vector>
+
+1591921673 source:a:\programme c++\id\src\matiere.cpp
+	"Matiere.h"
+
+1613759309 a:\programme c++\id\include\matiere.h
+	<string>
+
+1591996635 source:a:\programme c++\id\src\evaluation.cpp
+	"Evaluation.h"
+
+1591996635 a:\programme c++\id\include\evaluation.h
+	<iostream>
+	<string>
+	<vector>
+	"Cancdidat.h"
+	"Matiere.h"
+
+1614173430 source:a:\programme c++\id\ajouter.cpp
+	"Ajouter.h"
+
+1592000014 a:\programme c++\id\ajouter.h
+	<iostream>
+	<string>
+	<vector>
+	"Matiere.h"
+	"Cancdidat.h"
+	"Evaluation.h"
+	"mesflux.h"
+
+1591918706 source:a:\programme c++\id\modifier.cpp
+
+1614177594 a:\programme c++\id\mesflux.h
+	<iostream>
+	<fstream>
+	<string>
+
+1593259123 source:a:\programme c++\id\mesflux.cpp
+	"mesflux.h"
+
+1613759309 a:\programme c++\id\supprimer.h
+	<string>
+	<vector>
+	"Matiere.h"
+	"Cancdidat.h"
+
+1591982025 source:a:\programme c++\id\modification.cpp
+	"Modification.h"
+
+1591982026 a:\programme c++\id\modification.h
+	"Ajouter.h"
+	"supprimer.h"
+
+1613759309 source:a:\programme c++\id\supprimer.cpp
+	"supprimer.h"
+
+1614173430 source:a:\programme c++\tp_info204_2020\ajouter.cpp
+	"Ajouter.h"
+
+1592000014 a:\programme c++\tp_info204_2020\ajouter.h
+	<iostream>
+	<string>
+	<vector>
+	"Matiere.h"
+	"Cancdidat.h"
+	"Evaluation.h"
+	"mesflux.h"
+
+1613759309 a:\programme c++\tp_info204_2020\include\matiere.h
+	<string>
+
+1591850677 a:\programme c++\tp_info204_2020\include\cancdidat.h
+	<string>
+	<vector>
+
+1591996635 a:\programme c++\tp_info204_2020\include\evaluation.h
+	<iostream>
+	<string>
+	<vector>
+	"Cancdidat.h"
+	"Matiere.h"
+
+1614177594 a:\programme c++\tp_info204_2020\mesflux.h
+	<iostream>
+	<fstream>
+	<string>
+
+1614177601 source:a:\programme c++\tp_info204_2020\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Cancdidat.h"
+	"Matiere.h"
+	"Evaluation.h"
+	"Ajouter.h"
+	"mesflux.h"
+	"supprimer.h"
+
+1613759309 a:\programme c++\tp_info204_2020\supprimer.h
+	<string>
+	<vector>
+	"Matiere.h"
+	"Cancdidat.h"
+
+1591918706 source:a:\programme c++\tp_info204_2020\modifier.cpp
+
+1591850677 source:a:\programme c++\tp_info204_2020\src\cancdidat.cpp
+	"Cancdidat.h"
+
+1591996635 source:a:\programme c++\tp_info204_2020\src\evaluation.cpp
+	"Evaluation.h"
+
+1591921673 source:a:\programme c++\tp_info204_2020\src\matiere.cpp
+	"Matiere.h"
+
+1613759309 source:a:\programme c++\tp_info204_2020\supprimer.cpp
+	"supprimer.h"
+

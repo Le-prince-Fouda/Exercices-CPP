@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636865419 source:a:\programme c++\resolution_equation_second_degre\main.cpp
+	<iostream>
+	<cmath>
+

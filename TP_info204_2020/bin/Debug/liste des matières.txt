@@ -1,0 +1,4 @@
+Les matières de compositions au concours de ABC
+
+les information des matières sont notée ainsi: code; libelle; coef
+

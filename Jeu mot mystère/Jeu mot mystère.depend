@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1599522489 source:a:\programme c++\jeu mot mystère\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+
